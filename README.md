@@ -1,7 +1,7 @@
 # Convert Pandas Series to Datetime.Date
 
 #### Github: https://github.com/Edamas/pandas_string_to_datetime
-#### Video Demo: [Insert Your Video URL Here]
+#### Video Demo: https://www.youtube.com/watch?v=ufefeTqT3cQ&ab_channel=EDamas
 #### Description
 
 The "Convert Pandas Series to Datetime.Date" project provides a straightforward solution for converting a Pandas Series containing string representations of dates into the more versatile `datetime.date` format. This functionality is crucial in data science, economics, and statistics, where working with accurate and standardized date formats is essential.
